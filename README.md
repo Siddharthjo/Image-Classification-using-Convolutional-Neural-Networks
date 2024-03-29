@@ -1,0 +1,2 @@
+# Image-Classification-using-Convolutional-Neural-Networks
+This repository contains Python code for image classification using Convolutional Neural Networks (CNNs) on the CIFAR-10 dataset. It includes preprocessing, model building, training, evaluation, and prediction steps using the Keras library. Perfect for beginners and ML enthusiasts to learn and experiment with CNNs on a popular image dataset.
